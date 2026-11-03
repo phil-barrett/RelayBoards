@@ -4,10 +4,7 @@ This repository is for a family of simple 2 and 4 channel, DIN Rail mountable re
 
 ![Bare Board](https://github.com/phil-barrett/Relay/blob/main/Images/Relay_2Xg_DIN_C45.jpg)
 
-There are DIN Rail Brackets available as well.
-
-![Bare Board](https://github.com/phil-barrett/Relay/blob/main/Images/Relay%20Board%20%2B%20DIN%20Rails.jpeg)
-
+![Bare Board](https://github.com/phil-barrett/RelayBoards/blob/main/Images/Relay_2Xg_DIN_C45.jpg)
 ![Populated 4X board](https://github.com/phil-barrett/RelayBoards/blob/main/Images/Relay_4X_DIN_C45.jpg)
 
 ## Features
@@ -32,3 +29,10 @@ Note: We have not verified all of the above relays. Before ordering, please veri
 
 
 ![G5LE Pinouts and locations](https://github.com/phil-barrett/RelayBoards/blob/main/Images/g5le%20pinout.jpg)
+
+## DIN Rail Mounting
+
+There are DIN Rail Brackets available as well.
+
+![Bare Board](https://github.com/phil-barrett/Relay/blob/main/Images/Relay%20Board%20%2B%20DIN%20Rails.jpeg)
+
