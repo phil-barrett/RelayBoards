@@ -2,9 +2,10 @@
 
 This repository is for a family of simple 2 and 4 channel, DIN Rail mountable relay boards. They are compatible with the industry standard "Sugar Cube" relay format in SPDT or SPST conmfiguration.
 
-![Bare Board](https://github.com/phil-barrett/Relay/blob/main/Images/Relay_2Xg_DIN_C45.jpg)
+![Bare Board](https://github.com/phil-barrett/RelayBoards/blob/main/Images/Relay_2Xg_DIN_C45_bare.jpg)
 
 ![Bare Board](https://github.com/phil-barrett/RelayBoards/blob/main/Images/Relay_2Xg_DIN_C45.jpg)
+
 ![Populated 4X board](https://github.com/phil-barrett/RelayBoards/blob/main/Images/Relay_4X_DIN_C45.jpg)
 
 ## Features
