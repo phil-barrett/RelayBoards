@@ -5,9 +5,9 @@ This repository is for a family of simple 2 and 4 channel, DIN Rail mountable re
 ## Table of Contents
 1. [Images](#Images)
 2. [Features](#Features)
-3. [Compatible Relays](#Compatible Relays)
-4. [PCB dimensions](#PCB dimensions)
-5. [DIN Rail Mounting](#DIN Rail Mounting)
+3. [Compatible Relays](#Compatible-Relays)
+4. [PCB dimensions](#PCB-dimensions)
+5. [DIN Rail Mounting](#DIN-Rail-Mounting)
 
 
 ## Images
