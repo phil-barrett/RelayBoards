@@ -8,6 +8,7 @@ This repository is for a family of simple 2 and 4 channel, DIN Rail mountable re
 3. [Compatible Relays](#Compatible-Relays)
 4. [PCB dimensions](#PCB-dimensions)
 5. [DIN Rail Mounting](#DIN-Rail-Mounting)
+6. [PCB Gerbers](#PCB-Gerbers)
 
 
 ## Images
@@ -54,4 +55,13 @@ Note: We have not verified all of the above relays. Before ordering, please veri
 There are DIN Rail Brackets available as well.
 
 ![Bare Board](https://github.com/phil-barrett/Relay/blob/main/Images/Relay%20Board%20%2B%20DIN%20Rails.jpeg)
+
+## PCB-Gerbers
+
+Zip files that contain all the necessary layers to have a PCB production house create the PCBs. I have used them with JLCPCB.
+
+2 Channel Gerbers
+4 Channel Gerbers
+
+
 
