@@ -68,5 +68,15 @@ Click on a link below and select the download option on the resulting page.
 
 [4 Channel Gerbers](https://github.com/phil-barrett/RelayBoards/blob/main/Gerbers/Relay_Board_4X_DIN_C45.zip)
 
+## Bill of Materials
+
+These components can be sourced from many places. 
+
+| Item | Mouser | DigiKey | Description |
+| :---: | :---: | :---: | :---: |
+| Relay | | | See [Compatible Relays](#Compatible_Relays) |
+| 3.5 mm Screw Terminal | 640-TAD05-02-1-L-G | 2073-TAD05-02-1-L-G-ND | Standard 3.5 mm, numerous sources |
+| 5.08 mm Screw Terminal | 640-TBJ05-03-1-G-G | 2073-TBJ05-03-1-G-G-ND | Standard 5.08 mm, numerous sources |
+
 
 
