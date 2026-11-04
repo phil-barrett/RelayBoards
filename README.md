@@ -58,7 +58,9 @@ There are DIN Rail Brackets available as well.
 
 ## PCB-Gerbers
 
-Zip files that contain all the necessary layers to have a PCB production house create the PCBs. I have used them with JLCPCB.
+Zip files that contain all the necessary layers to have a PCB production house create the PCBs. I have used them with JLCPCB.  
+
+Click on a link below and select the download option on the resulting page.
 
 [2 Channel Gerbers](https://github.com/phil-barrett/RelayBoards/blob/main/Gerbers/Relay_Board_2X_Ver_1.0.zip)
 
