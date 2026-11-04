@@ -52,9 +52,11 @@ Note: We have not verified all of the above relays. Before ordering, please veri
 
 ## DIN Rail Mounting
 
-There are DIN Rail Brackets available as well.
+DIN Rail mounting brackets are availabele They can be 3D Printed in the material of your choice. PLA works well for environments that are below 60C. For higher temperature environments, use an appropriate material.  
 
 ![Bare Board](https://github.com/phil-barrett/Relay/blob/main/Images/Relay%20Board%20%2B%20DIN%20Rails.jpeg)
+
+To download a 3D Manufacturing Format file, click on the link and select the download option on that page. [3D model in .3MF format](https://github.com/phil-barrett/RelayBoards/blob/main/DIN%20Rail%20Brackets/DINRail_60mm(42mm)x8mm.3mf)
 
 ## PCB-Gerbers
 
