@@ -1,6 +1,6 @@
 # Relay Boards
 
-This repository is for a family of simple 2 and 4 channel, DIN Rail mountable relay boards. They are compatible with the industry standard "Sugar Cube" relay format in SPDT or SPST conmfiguration.
+This repository is for a family of simple 2 and 4 channel, DIN Rail mountable relay boards. They are compatible with the industry standard "Sugar Cube" relay format in SPDT or SPST configuration.
 
 ## Table of Contents
 1. [Images](#Images)
