@@ -9,6 +9,7 @@ This repository is for a family of simple 2 and 4 channel, DIN Rail mountable re
 4. [PCB dimensions](#PCB-dimensions)
 5. [DIN Rail Mounting](#DIN-Rail-Mounting)
 6. [PCB Gerbers](#PCB-Gerbers)
+7. [Bill of Materials](#Bill-of-Materials)
 
 
 ## Images
