@@ -26,7 +26,7 @@ This repository is for a family of simple 2 and 4 channel, DIN Rail mountable re
 
 ## Compatible Relays
 
-The Boards use a standard industry-wide "Sugar Cube" (or "Cubic") 5-pin PCB footprint. It features a layout with a width of approximately 16.5 mm and a length of 22.5 mm.
+The Boards use an standard industry-wide "Sugar Cube" (or "Cubic") 5-pin PCB footprint. It features a layout with a width of approximately 16.5 mm and a length of 22.5 mm.
 
 Compatible Relays:
 - Omron/Aratus: G5LE Series
@@ -43,12 +43,12 @@ Note: We have not verified all of the above relays. Before ordering, please veri
 
 ![G5LE Pinouts and locations](https://github.com/phil-barrett/RelayBoards/blob/main/Images/g5le%20pinout.jpg)
 
+
 ## PCB dimensions
 
 ![2 Channel Board](https://github.com/phil-barrett/RelayBoards/blob/main/Images/Relay_2Xg_DIN_C45_dim.jpg)
 
 ![4 Channel Board](https://github.com/phil-barrett/RelayBoards/blob/main/Images/Relay_4X_DIN_C45_dim.jpg)
-
 
 
 ## DIN Rail Mounting
@@ -57,7 +57,10 @@ DIN Rail mounting brackets are availabele They can be 3D Printed in the material
 
 ![Bare Board](https://github.com/phil-barrett/Relay/blob/main/Images/Relay%20Board%20%2B%20DIN%20Rails.jpeg)
 
-To download a 3D Manufacturing Format file, click on the link and select the download option on that page. [3D model in .3MF format](https://github.com/phil-barrett/RelayBoards/blob/main/DIN%20Rail%20Brackets/DINRail_60mm(42mm)x8mm.3mf)
+To download a 3D Manufacturing Format file, click on the link and select the download option on that page. Print 2 pieces.
+
+
+[3D model in .3MF format](https://github.com/phil-barrett/RelayBoards/blob/main/DIN%20Rail%20Brackets/DINRail_60mm(42mm)x8mm.3mf)
 
 ## PCB-Gerbers
 
