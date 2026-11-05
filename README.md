@@ -76,8 +76,8 @@ These components can be sourced from many places.
 | Item | Mouser | DigiKey | Description |
 | :---: | :---: | :---: | :---: |
 | Relay | 653-G5LE-1A4-DC12 | Z2352-ND | G5LE-1A4 DC12 but see [Compatible Relays](#Compatible_Relays) |
-| 3.5 mm Screw Terminal 2 PIN | 640-TAD05-02-1-L-G | 2073-TAD05-02-1-L-G-ND | Standard 3.5 mm, numerous sources |
-| 5.08 mm Screw Terminal 3 PIN | 640-TBJ05-03-1-G-G | 2073-TBJ05-03-1-G-G-ND | Standard 5.08 mm, numerous sources |
+| 3.5 mm Screw Terminal 2 pin | 640-TAD05-02-1-L-G | 2073-TAD05-02-1-L-G-ND | Standard 3.5 mm, numerous sources |
+| 5.08 mm Screw Terminal 3 pin | 640-TBJ05-03-1-G-G | 2073-TBJ05-03-1-G-G-ND | Standard 5.08 mm, numerous sources |
 
 
 
