@@ -53,7 +53,7 @@ Note: We have not verified all of the above relays. Before ordering, please veri
 
 ## DIN Rail Mounting
 
-DIN Rail mounting brackets are availabele They can be 3D Printed in the material of your choice. PLA works well for environments that are below 60C. For higher temperature environments, use an appropriate material.  
+DIN Rail mounting brackets are available They can be 3D Printed in the material of your choice. PLA works well for environments that are below 60C. For higher temperature environments, use an appropriate material.  
 
 ![Bare Board](https://github.com/phil-barrett/Relay/blob/main/Images/Relay%20Board%20%2B%20DIN%20Rails.jpeg)
 
